@@ -1,5 +1,5 @@
-train: C:\Users\aliof\OneDrive\Desktop\Object detection\Train filees\train_data\Images\train\  # train images (relative to 'path') 118287 images
-val: C:\Users\aliof\OneDrive\Desktop\Object detection\Train filees\train_data\Images\val\   # val images (relative to 'path') 5000 images
+train: #####  # train images (relative to 'path')
+val: #####   # val images (relative to 'path')
 
 names:
   0: remote
